@@ -1,0 +1,2 @@
+Train MAE: 0.7590
+Test MAE: 3.5504

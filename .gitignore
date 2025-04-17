@@ -1,0 +1,26 @@
+# Placeholder: .gitignore
+# Placeholder: .gitignore
+env/
+code_upload_temp/
+*.csv
+*.xlsx
+*.zip
+*.json
+*.nc
+*.cpg
+*.dbf
+*.prj
+*.shx
+*.shp
+*.vrt
+*.xml
+*.csv.gz
+*.csv.zip
+*.csv.bz2
+*.csv.tar
+*.csv.tgz
+*.csv.tbz2
+*.csv.txz
+*.log
+*__pycache__/
+*upload_temp/
